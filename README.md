@@ -1,6 +1,6 @@
 - 👋 Hello world, I'm currently working as Analyst II specializing in energy analysis of smart buildings 🏢 -- primarily focusing on digital transformation & time-series data analysis
   
-- 📖I’m a data enthusiast with a genuine leaninig to take data from its 'raw'➡️ to 'refined' state ✨
+- 📖I’m a data enthusiast passionate of turning data from its 'raw'➡️ to 'refined' state ✨
 
 - In line with my goals & passion, I have set out to gain the knowledge & build projects in the data analysis & data science domanins ⛵
 
