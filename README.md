@@ -8,7 +8,7 @@
 
 - I'm currently pursuing data roles based on the experience & learnings that I've acquired so far 📈
 
-- The repos contained in my profile will focus primarily on:
+- Projects will focus primarily on:
   - Python, Pandas💻
   - SQL 🛢️
   - Data visualization 📊
